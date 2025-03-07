@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **<nicolequachworkspace@gmail.com>**
 
-- 📄 Know about my experiences [nicolequach.com](https://nicolequach.pythonanywhere.com/)
+- 📄 Know about my experiences [nicolethedev.top](https://nicolethedev.top/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
